@@ -47,9 +47,6 @@ Convert Spotify playlists to YouTube Music with real-time progress tracking and 
 
 An AI-powered project that leverages modern JavaScript technologies to create intelligent applications.
 
-### 📄 [CV](https://github.com/sohanagashimani/cv)
-
-A modern, responsive CV built with Astro framework showcasing professional experience and skills.
 
 ## 📊 GitHub Stats
 
@@ -67,9 +64,9 @@ A modern, responsive CV built with Astro framework showcasing professional exper
 
 ## 📫 Get In Touch
 
-- **Email:** [your-email@example.com](mailto:sohanagashimanii@gmail.com)
+- **Email:** [sohanagashimanii@gmail.com](mailto:sohanagashimanii@gmail.com)
 - **LinkedIn:** [Sohan Agashimani](https://linkedin.com/in/sohan-a-1161601b4)
-- **Twitter:** [@sohanagashimani](https://x.com/sohanTwt)
+- **Twitter:** [@sohanTwt](https://x.com/sohanTwt)
 
 ## 🤝 Let's Connect!
 
