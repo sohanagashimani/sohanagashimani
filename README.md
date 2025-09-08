@@ -45,12 +45,10 @@ Convert Spotify playlists to YouTube Music with real-time progress tracking and 
 
 ### 🤖 [Keep AI](https://github.com/sohanagashimani/keep-ai)
 
-An AI-powered project that leverages modern JavaScript technologies to create intelligent applications.
+AI-powered note-taking application inspired by Google Keep
 
 
 ## 📊 GitHub Stats
-
-![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohanagashimani&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohanagashimani&layout=compact&theme=radical)
 
@@ -59,7 +57,6 @@ An AI-powered project that leverages modern JavaScript technologies to create in
 
 - Building scalable microservices
 - Exploring AI/ML integration in web applications
-- Contributing to open source projects
 - Learning new technologies and frameworks
 
 ## 📫 Get In Touch
